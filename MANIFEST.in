@@ -1,0 +1,11 @@
+include README.md
+include LICENSE
+include requirements.txt
+include wordlists/*.txt
+include config/*.json
+recursive-include tests *.py
+global-exclude *.pyc
+global-exclude __pycache__
+global-exclude .pytest_cache
+global-exclude .coverage
+global-exclude *.log
