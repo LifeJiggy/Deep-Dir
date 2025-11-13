@@ -61,13 +61,6 @@ docker run -it deepdir --help
 - Python 3.9+
 - pip
 
-### Install from source
-```bash
-git clone https://github.com/yourusername/deepdir.git
-cd deepdir
-pip install -r requirements.txt
-```
-
 ### Install via pip
 ```bash
 pip install deepdir
