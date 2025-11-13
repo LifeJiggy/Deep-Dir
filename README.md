@@ -273,9 +273,8 @@ Contributions are welcome! Please feel free to submit pull requests, report bugs
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/deepdir.git
+git clone https://github.com/Lifejiggy/deepdir.git
 cd deepdir
-pip install -r requirements.txt
 pip install -r requirements-dev.txt
 ```
 
